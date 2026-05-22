@@ -2,19 +2,38 @@
 
 ### A Little Bit About Me
 
-🎓 PhD in Computer Science & Engineering (2026)  
-🧠 Passionate about Machine Learning, Computer Vision, and 3D AI  
-💻 Currently building projects that blend deep learning with personal growth and daily life enhancement  
-🌱 Exploring how GenAI can support well-being, reflection, and mindful productivity  
+PhD in Computer Science & Engineering (2026)  
+Passionate about Machine Learning, Computer Vision, 3D AI, AI/LLM
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-🧠 **Languages**: Python · C/C++ · SQL  
-📦 **Frameworks**: PyTorch · PyTorch3D · OpenCV · YOLO  
-🛠️ **Tools**: Docker · Git · VS Code · Jupyter · GitHub Actions · Kaggle  
-🔍 **Focus Areas**: Deep Learning · Computer Vision · 3D AI · Model Deployment  
+Languages:
+Python · C/C++ · SQL  
 
+Core AI/ML:
+PyTorch · scikit-learn · CNNs · Vision Transformers (ViT) ·
+object detection · segmentation ·
+regression · model evaluation · feature engineering ·
+GenAI prototyping · LLM integration
+
+Computer Vision:
+OpenCV · YOLO · PyTorch3D · COLMAP · 3D reconstruction · 
+differentiable rendering · Gaussian splatting · 
+on-device inference
+
+Engineering:
+Docker · Git · VS Code · Jupyter · Kaggle ·
+FastAPI (prototyping) · reproducible ML pipelines ·
+edge AI optimization · MLOps / CI-CD ·
+LangChain · ChromaDB · RAG pipelines · vector databases
+
+Focus Areas:
+Deep Learning · Computer Vision · 3D AI · Model Deployment · AI · RAG/LLM 
+
+Embedded / System:
+FPGA design (Xilinx/Altera) · RTL design ·
+simulation · timing closure · on-board debugging (VHDL/Verilog, ModelSim/Quartus)
 ---
 
 ## 🍇 Featured Work — Tsubura (公開アプリ / Published App)
